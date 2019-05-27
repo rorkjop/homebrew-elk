@@ -8,3 +8,6 @@ Install Elasticsearch:
 
 `brew install rorkjop/elk/elasticsearch`
 
+Install Kibana:
+
+`brew install rorkjop/elk/kibana`
