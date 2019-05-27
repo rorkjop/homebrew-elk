@@ -15,6 +15,12 @@ To install Elasticsearch run:
 
 `$ brew install rorkjop/elk/elasticsearch`
 
+## Logstash
+
+Installing Logstash is as easy as:
+
+`$ brew install rorkjop/elk/logstash`
+
 ## Kibana
 
 Installing Kibana takes a very long time because everything is built from
