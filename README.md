@@ -1,7 +1,7 @@
 # Homebrew ELK
 
 This repository contains Homebrew formulae for Elasticsearch, Logstash, and
-Kibana version 7.1.0.
+Kibana version 7.1.1.
 
 ## Installation
 
@@ -32,7 +32,7 @@ the installation you'll get an error message saying:
 
 curl: (22) The requested URL returned error: 404 Not Found
 Error: Failed to download resource "kibana"
-Download failed: https://homebrew.bintray.com/bottles/kibana-7.1.0.mojave.bottle.tar.gz
+Download failed: https://homebrew.bintray.com/bottles/kibana-7.1.1.mojave.bottle.tar.gz
 ```
 
 With that out of the way, run the following command to perform the installation:
