@@ -1,7 +1,7 @@
 # Homebrew ELK
 
 This repository contains Homebrew formulae for Elasticsearch, Logstash, and
-Kibana version 7.1.1.
+Kibana.
 
 ## Installation
 
